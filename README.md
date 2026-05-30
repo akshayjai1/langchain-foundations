@@ -35,9 +35,9 @@ cp example.env .env
 
 Edit the .env file to include the keys below for [Models](#model-providers) and optionally [LangSmith](#getting-started-with-langsmith)
 
-- Get an OpenAI API Key [here](https://openai.com/index/openai-api/).  
+- Get an OpenAI API Key [here](https://openai.com/index/openai-api/).
 - Optional for Module1/Lesson1, get an Anthropic API Key [here](https://console.anthropic.com) and a Google API Key [here](https://ai.google.dev/gemini-api/docs/quickstart).
-- Optional, Create a [LangSmith](https://smith.langchain.com/) account and API Key.  
+- Optional, Create a [LangSmith](https://smith.langchain.com/) account and API Key.
 
 ```bash
 # Manual installs for checking: uv
@@ -173,7 +173,7 @@ This repository contains three Modules that serve as introductions to many of La
 
 ### Module 3: Production-Ready Agent
 
-- What is Middleware?
+- What is Middleware? https://medium.com/@ale.garavaglia/langchain-middlewares-lightweight-hooks-for-more-structured-agents-f0abba828934
 - Managing Long Conversations
 - Human In The Loop (HITL)
 - Dynamic Agents
